@@ -34,7 +34,7 @@ diretorio_entrada = "arquivos_pdf"
 diretorio_saida = "saida"
 
 
-senha = "eng.lucassxavier@gmail.com"
+senha = "senha321"
 
 
 desbloquear_multiplos_pdfs(diretorio_entrada, senha, diretorio_saida)
